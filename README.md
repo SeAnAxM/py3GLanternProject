@@ -9,3 +9,5 @@
 3. Includes the algorithmic description and processes of each cryptographic method <br>
 4. Provides knowledge assessment questionnaires <br>
 
+YOUTUBE LINK:
+https://www.youtube.com/watch?v=raFsGpJ5hzs
